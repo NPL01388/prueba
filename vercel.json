@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/pedidos", "destination": "/admin.html" },
+    { "source": "/mensajero", "destination": "/courier.html" }
+  ]
+}
